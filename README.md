@@ -1,3 +1,4 @@
+![Kapish Rawat banner](./kapish-banner.svg)
 # 💫 About Me:
 Hi, I'm Kapish Rawat, a first-year BCA student passionate about technology, programming, and building solutions that solve real-world problems.<br><br>💻 I'm exploring software development, Artificial Intelligence, and emerging technologies while continuously improving my technical and problem-solving skills.<br><br>🚀 I enjoy participating in hackathons, collaborating with teams, and turning innovative ideas into meaningful projects.<br><br>🌱 Currently, I'm focused on learning new technologies, strengthening my coding fundamentals, and growing as a developer.<br><br>🤝 I'm always open to collaborating on interesting projects, learning from fellow developers, and contributing to the tech community.<br><br>“Learning by building, growing by collaborating, and innovating with purpose.”
 
