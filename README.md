@@ -17,6 +17,6 @@ Hi, I'm Kapish Rawat, a first-year BCA student passionate about technology, prog
 ![](https://github-contributor-stats.vercel.app/api?username=kapishrawat2007&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kapishrawat2007&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kapishrawat2007&label=Profile%20views&color=ff006a&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
