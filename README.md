@@ -20,3 +20,26 @@ Hi, I'm Kapish Rawat, a first-year BCA student passionate about technology, prog
 ![](https://komarev.com/ghpvc/?username=kapishrawat2007&label=Profile%20views&color=ff006a&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-banner.svg" alt="Contribution snake" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=1b1147&color=ffd8a8&line=7ee8fa&point=ffffff&area=true&area_color=d76d77&hide_border=true&radius=16&title_color=ffd8a8&custom_title=Kapish%27s%20Contribution%20Graph" alt="Activity graph" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=1b1147&title_color=ffd8a8&text_color=ffffff&icon_color=7ee8fa&ring_color=d76d77" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=1b1147&title_color=ffd8a8&text_color=ffffff" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=3,5,12" alt="footer wave" />
+</p>
