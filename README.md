@@ -19,4 +19,14 @@ Hi, I'm Kapish Rawat, a first-year BCA student passionate about technology, prog
 ---
 ![](https://komarev.com/ghpvc/?username=kapishrawat2007&label=Profile%20views&color=ff006a&style=flat)
 
+### 📈 Contribution Graph - This fixes your green boxes part
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapishrawat2007&theme=tokyo-night&hide_border=true&area=true&color=ff006a&line=ff006a&point=ffffff" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kapishrawat2007&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
